@@ -6,7 +6,9 @@ OLED Menu project with ATtiny85 Arduino-Compatible Chip
 
 **YOUTUBE VIDEO: https://youtu.be/ksHLeNBC0IQ**
 
-**WOKWI SKETCH: XXX**
+**WOKWI SKETCH: https://wokwi.com/projects/382831807597597697**
+
+
 
 Links from the video:
 - ATtiny85 chip: https://s.click.aliexpress.com/e/_DeT7tBh
