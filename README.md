@@ -34,6 +34,19 @@ Related videos from the video:
 ![THUMB_arduino_attiny85_oled_menu](https://github.com/upiir/attiny85_oled_menu/assets/117754156/790b99fc-7536-46b3-a8e5-e27fe48e784c)
 
 
+Small Animations:
+
+![arduino_attiny85_oled_menu_moreclicks](https://github.com/upiir/attiny85_oled_menu/assets/117754156/f0dcb675-d222-4b50-9184-2ab59b2e2890)
+
+
+![arduino_attiny85_oled_menu_loop](https://github.com/upiir/attiny85_oled_menu/assets/117754156/32d11b81-4fa4-43ac-9650-d246385f57e8)
+
+
+![arduino_attiny85_oled_menu_click](https://github.com/upiir/attiny85_oled_menu/assets/117754156/85dba6c3-9f66-43d2-8a29-63734302f637)
+
+
+
+
 
 Screenshots from the video:
 
